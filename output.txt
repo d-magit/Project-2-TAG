@@ -1,0 +1,341 @@
+Printando, pela 1a vez. 29a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 não possui alunos
+  - Projeto 4 possui alunos: 14
+  - Projeto 5 possui alunos: 25
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 não possui alunos
+  - Projeto 15 não possui alunos
+  - Projeto 16 não possui alunos
+  - Projeto 17 não possui alunos
+  - Projeto 18 possui alunos: 22
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 6
+  - Projeto 21 não possui alunos
+  - Projeto 22 não possui alunos
+  - Projeto 23 não possui alunos
+  - Projeto 24 não possui alunos
+  - Projeto 25 não possui alunos
+  - Projeto 26 não possui alunos
+  - Projeto 27 não possui alunos
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 não possui alunos
+Printando, pela 2a vez. 58a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 25 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41
+  - Projeto 15 possui alunos: 55
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 não possui alunos
+  - Projeto 18 possui alunos: 22
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 6
+  - Projeto 21 não possui alunos
+  - Projeto 22 não possui alunos
+  - Projeto 23 não possui alunos
+  - Projeto 24 não possui alunos
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48
+  - Projeto 27 não possui alunos
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 não possui alunos
+Printando, pela 3a vez. 87a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 não possui alunos
+  - Projeto 18 possui alunos: 22 78
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 6
+  - Projeto 21 não possui alunos
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 não possui alunos
+  - Projeto 24 não possui alunos
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 4a vez. 116a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 não possui alunos
+  - Projeto 18 possui alunos: 22 78
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 6 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 5a vez. 145a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 78
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 6a vez. 174a iteração:
+  - Projeto 1 possui alunos: 1 2
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 78
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 7a vez. 203a iteração:
+  - Projeto 1 possui alunos: 1 2 31
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55 14
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 57 37
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 não possui alunos
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 8a vez. 232a iteração:
+  - Projeto 1 possui alunos: 1 2 31
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55 14
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 57 98
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 possui alunos: 84
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 9a vez. 261a iteração:
+  - Projeto 1 possui alunos: 1 2 31
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55 14
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 57 98
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 possui alunos: 84
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela 10a vez. 290a iteração:
+  - Projeto 1 possui alunos: 1 2 31
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55 14
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 57 98
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 possui alunos: 84
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
+Printando, pela última vez. Locação final:
+  - Projeto 1 possui alunos: 1 2 31
+  - Projeto 2 possui alunos: 12
+  - Projeto 3 possui alunos: 33 53
+  - Projeto 4 possui alunos: 34
+  - Projeto 5 possui alunos: 85 35
+  - Projeto 6 possui alunos: 8
+  - Projeto 7 possui alunos: 17 21 29
+  - Projeto 8 possui alunos: 18
+  - Projeto 9 possui alunos: 23 73
+  - Projeto 10 possui alunos: 20
+  - Projeto 11 não possui alunos
+  - Projeto 12 possui alunos: 11
+  - Projeto 13 não possui alunos
+  - Projeto 14 possui alunos: 41 75
+  - Projeto 15 possui alunos: 55 14
+  - Projeto 16 possui alunos: 42
+  - Projeto 17 possui alunos: 61
+  - Projeto 18 possui alunos: 22 57 98
+  - Projeto 19 não possui alunos
+  - Projeto 20 possui alunos: 32 24
+  - Projeto 21 possui alunos: 7 27
+  - Projeto 22 possui alunos: 59
+  - Projeto 23 possui alunos: 10
+  - Projeto 24 possui alunos: 91
+  - Projeto 25 possui alunos: 84
+  - Projeto 26 possui alunos: 48 62
+  - Projeto 27 possui alunos: 81 83
+  - Projeto 28 não possui alunos
+  - Projeto 29 não possui alunos
+  - Projeto 30 possui alunos: 60
